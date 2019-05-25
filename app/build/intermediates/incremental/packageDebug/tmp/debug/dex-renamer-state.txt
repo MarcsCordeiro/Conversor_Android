@@ -1,0 +1,4 @@
+#Sun Apr 08 11:28:42 BRT 2018
+base.0=C\:\\Users\\marcos\\AndroidStudioProjects\\NovoConversor\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
